@@ -152,6 +152,10 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+#Executions Folders 
+./mlruns
+./testing_mlflow1_artifacts
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
