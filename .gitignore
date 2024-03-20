@@ -153,8 +153,8 @@ dmypy.json
 cython_debug/
 
 #Executions Folders 
-./mlruns
-./testing_mlflow1_artifacts
+/mlruns
+/testing_mlflow1_artifacts
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
