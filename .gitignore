@@ -155,6 +155,10 @@ cython_debug/
 #Executions Folders 
 /mlruns
 /testing_mlflow1_artifacts
+/custom_model_artifacts
+/model_signature_artifacts
+/serving_multiple_models
+/model_registry_artifacts
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
